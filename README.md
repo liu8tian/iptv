@@ -13,3 +13,5 @@ https://mirror.ghproxy.com/
 浙江组播源:https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu8tian/iptv/main/%E6%B5%99%E6%B1%9F%E7%BB%84%E6%92%AD%E6%BA%90.txt
 
 山西组播源:https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu8tian/iptv/main/%E5%B1%B1%E8%A5%BF%E7%BB%84%E6%92%AD%E6%BA%90.txt
+
+烟台组播源:https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu8tian/iptv/main/%E7%83%9F%E5%8F%B0%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD.txt
